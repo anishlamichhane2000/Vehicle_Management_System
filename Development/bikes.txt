@@ -1,0 +1,5 @@
+1,Classic 350,Royal Enfield,Gun Metal Grey,33,$4500
+2,KTM RC 2000,KTM Bike,Orange Black,58,$5300
+3,Brutale 800,Mv Agusta,White Red,51,$21000
+4,KTMduke 390,Bajaj auto,Grey black,45,$20000
+5,Yamaha FZFI,yamaha company,dark blue,48,$10000
